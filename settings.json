@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./",  // Diretório raiz do projeto
+        "./Services",  // Diretório contendo os serviços
+        "./src"  // Diretório contendo o ponto de entrada
+    ]
+}
